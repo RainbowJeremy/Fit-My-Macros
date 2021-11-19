@@ -1,0 +1,15 @@
+##CREATE VENV
+py -m venv <name_of_venv>
+py -m venv env
+
+##ACTIVATE VENV
+.\<name_of_venv>\Scripts\activate
+.\env\Scripts\activate
+
+##INSTALL SOMETHING
+pip install <name of package>
+[must activate venv first to contain environment.]
+
+##INSTALL REQUIREMENTS
+pip install -r requirements.txt
+[ -r means "recursively" ie. run this command on every line in the text file.]
