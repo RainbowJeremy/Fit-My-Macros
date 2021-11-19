@@ -8,8 +8,21 @@ py -m venv env
 
 ##INSTALL SOMETHING
 pip install <name of package>
-[must activate venv first to contain environment.]
+[must activate venv first to contain in environment.]
 
 ##INSTALL REQUIREMENTS
 pip install -r requirements.txt
 [ -r means "recursively" ie. run this command on every line in the text file.]
+
+
+##ANDROID
+android sdk
+download emulator -(tick HAXM option) can't remember i think it was a pain tbh)
+
+###FLUTTER
+install flutter
+
+#VSCODE
+add flutter extension
+
+ctrl shift P -> "Flutter: launch emulator"

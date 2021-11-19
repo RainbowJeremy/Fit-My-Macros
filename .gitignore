@@ -10,7 +10,7 @@ settings.py
 # Backup files # 
 *.bak 
 
-
+notes.txt
 
 # Python # 
 *.py[cod] 
